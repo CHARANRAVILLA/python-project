@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+pyttsx3
+SpeechRecognition
+pyaudio
